@@ -1,2 +1,2 @@
-# ejemploGitS8
-ejemplo de git
+# ejemplo de uso de Git
+es solo un ejemplo
